@@ -1,2 +1,3 @@
 # chaos-kubernetes
-see image
+
+![see image](https://github.com/spielerorasio/chaos-kubernetes/blob/master/Capture.PNG)
